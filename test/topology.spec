@@ -1,12 +1,12 @@
 
-vm oob-mgmt-server netq-1.4.0 2 10 40
-vm leaf01 cumulus-vx-3.7.3 1 2 2
+vm oob-mgmt-server netq-1.4.0 2 10 0
+vm leaf01 cumulus-vx-3.7.3 1 2 0
 vm leaf02 cumulus-vx-3.7.3 1 2 2
 vm leaf03 cumulus-vx-3.7.3 1 2 2
 vm leaf04 cumulus-vx-3.7.3 1 2 2
 vm spine01 cumulus-vx-3.7.3 1 2 2
 vm spine02 cumulus-vx-3.7.3 1 2 2
-vm server01 ubuntu-16.04 2 4 4
+vm server01 ubuntu-16.04 2 4 0
 vm server02 ubuntu-16.04 2 4 4
 vm server03 ubuntu-16.04 2 4 4
 vm server04 ubuntu-16.04 2 4 4
